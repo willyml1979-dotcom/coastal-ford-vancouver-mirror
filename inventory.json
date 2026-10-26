@@ -1,7 +1,7 @@
 {
   "dealership": "Coastal Ford Vancouver",
-  "generated_at": "2026-10-25T23:05:29",
-  "vehicle_count": 626,
+  "generated_at": "2026-10-25T23:37:46",
+  "vehicle_count": 627,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1290,7 +1290,7 @@
       "vin": "1FTFW1RG8TFA90952",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/09c8fd306cf2.html",
       "condition": "new",
-      "price": 132710.0,
+      "price": 124710.0,
       "price_currency": "CAD"
     },
     {
@@ -1306,7 +1306,7 @@
       "vin": "1FTFW1RG9TFB41973",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/02a93955fe2f.html",
       "condition": "new",
-      "price": 132185.0,
+      "price": 124185.0,
       "price_currency": "CAD"
     },
     {
@@ -2451,6 +2451,14 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/05f593010270.html",
       "condition": "new",
       "price": 40585.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Outer Banks",
+      "vin": "3FMCR9CN9TRE85589",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/3b46ff911705.html",
+      "condition": "new",
+      "price": 44080.0,
       "price_currency": "CAD"
     },
     {
