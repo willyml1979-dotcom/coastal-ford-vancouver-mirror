@@ -1,7 +1,7 @@
 {
   "dealership": "Coastal Ford Vancouver",
-  "generated_at": "2026-10-26T08:14:59",
-  "vehicle_count": 627,
+  "generated_at": "2026-11-17T08:55:31",
+  "vehicle_count": 624,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -4894,14 +4894,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Ford MUSTANG",
-      "vin": "1ZVBP8EM9E5329642",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/312a3ddcbb77.html",
-      "year": 2014,
+      "name": "2017 Ford F-150",
+      "vin": "1FTEW1EP7HFB58022",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/d2004346c95b.html",
+      "year": 2017,
       "make": "Ford",
-      "model": "MUSTANG",
+      "model": "F-150",
       "condition": "used",
-      "price": 17994.0,
+      "price": 32995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Ford EXPEDITION",
+      "vin": "1FMJK1MT1JEA37938",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/27ef5b5ee9f5.html",
+      "year": 2018,
+      "make": "Ford",
+      "model": "EXPEDITION",
+      "condition": "used",
+      "price": 38995.0,
       "price_currency": "CAD"
     },
     {
@@ -4912,18 +4923,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 47994.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford MAVERICK",
-      "vin": "3FTTW8E34NRA56057",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/1e3f2c6aeee8.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "MAVERICK",
-      "condition": "used",
-      "price": 28994.0,
+      "price": 46994.0,
       "price_currency": "CAD"
     },
     {
@@ -4934,18 +4934,7 @@
       "make": "Ford",
       "model": "MUSTANG MACH-E",
       "condition": "used",
-      "price": 42995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford MUSTANG MACH-E",
-      "vin": "3FMTK3SS5PMA24398",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/9032550b38ac.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "MUSTANG MACH-E",
-      "condition": "used",
-      "price": 38994.0,
+      "price": 42494.0,
       "price_currency": "CAD"
     },
     {
@@ -4956,18 +4945,7 @@
       "make": "Chevrolet",
       "model": "TRAX",
       "condition": "used",
-      "price": 21993.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford ESCAPE",
-      "vin": "1FMCU0E11RUB11841",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/3a0dce6a8d6f.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "ESCAPE",
-      "condition": "used",
-      "price": 30994.0,
+      "price": 21593.0,
       "price_currency": "CAD"
     },
     {
@@ -4978,40 +4956,7 @@
       "make": "Ford",
       "model": "BRONCO SPORT",
       "condition": "used",
-      "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-30",
-      "vin": "3MVDMBDY7RM610116",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/dfd9eba08b9d.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "used",
-      "price": 27993.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford F-150 LIGHTNING",
-      "vin": "1FT6W3LU4SWG25025",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/f3e017a9ea8b.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150 LIGHTNING",
-      "condition": "used",
-      "price": 74994.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford BRONCO SPORT",
-      "vin": "3FMCR9BN6SRE13166",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/9f244aa0a59e.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "BRONCO SPORT",
-      "condition": "used",
-      "price": 27993.0,
+      "price": 26993.0,
       "price_currency": "CAD"
     },
     {
@@ -5022,7 +4967,18 @@
       "make": "Ford",
       "model": "ESCAPE",
       "condition": "used",
-      "price": 33995.0,
+      "price": 30993.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Ford F-150 LIGHTNING",
+      "vin": "1FT6W3L73SWG03074",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/05608f4393fd.html",
+      "year": 2025,
+      "make": "Ford",
+      "model": "F-150 LIGHTNING",
+      "condition": "used",
+      "price": 76980.0,
       "price_currency": "CAD"
     },
     {
@@ -5033,7 +4989,7 @@
       "make": "Ford",
       "model": "MUSTANG",
       "condition": "used",
-      "price": 69980.0,
+      "price": 67994.0,
       "price_currency": "CAD"
     },
     {
@@ -5044,7 +5000,7 @@
       "make": "Ford",
       "model": "MAVERICK",
       "condition": "used",
-      "price": 44295.0,
+      "price": 42493.0,
       "price_currency": "CAD"
     },
     {
@@ -5055,7 +5011,7 @@
       "make": "Ford",
       "model": "EXPLORER",
       "condition": "used",
-      "price": 70990.0,
+      "price": 67994.0,
       "price_currency": "CAD"
     },
     {
@@ -5066,7 +5022,18 @@
       "make": "Ford",
       "model": "MUSTANG",
       "condition": "used",
-      "price": 69980.0,
+      "price": 67994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford F-150",
+      "vin": "1FTFW2L87TKE84618",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/16ce572eb9b7.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 60994.0,
       "price_currency": "CAD"
     }
   ]
