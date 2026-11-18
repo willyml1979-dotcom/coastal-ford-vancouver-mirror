@@ -1,6 +1,6 @@
 # Coastal Ford Vancouver
 
- dealership in Vancouver. AI-readable inventory mirror, about 569 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 567 vehicles.
 
 - Official website: https://www.coastalfordvancouver.com/en
 - Used vehicles: https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/used/
