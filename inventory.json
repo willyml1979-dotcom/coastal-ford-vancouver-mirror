@@ -1,7 +1,7 @@
 {
   "dealership": "Coastal Ford Vancouver",
-  "generated_at": "2026-11-18T00:20:44",
-  "vehicle_count": 568,
+  "generated_at": "2026-11-18T01:08:11",
+  "vehicle_count": 569,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1354,7 +1354,7 @@
       "vin": "3FMTK1S53TMA20228",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/23a88f4b0f31.html",
       "condition": "new",
-      "price": 49240.0,
+      "price": 48240.0,
       "price_currency": "CAD"
     },
     {
@@ -1394,7 +1394,7 @@
       "vin": "1FTFW7LD7TFC46500",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/a4deef69f05e.html",
       "condition": "new",
-      "price": 108504.0,
+      "price": 98754.0,
       "price_currency": "CAD"
     },
     {
@@ -1402,7 +1402,7 @@
       "vin": "3FTTW8J32TRB65992",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/35a51b60e432.html",
       "condition": "new",
-      "price": 46695.0,
+      "price": 45195.0,
       "price_currency": "CAD"
     },
     {
@@ -1410,7 +1410,7 @@
       "vin": "1FTER4KH5TLE34181",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/979ee52aafb8.html",
       "condition": "new",
-      "price": 63580.0,
+      "price": 60580.0,
       "price_currency": "CAD"
     },
     {
@@ -1418,7 +1418,7 @@
       "vin": "3FTTW8J37TRB64689",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/e6c4b8ab535a.html",
       "condition": "new",
-      "price": 46245.0,
+      "price": 46745.0,
       "price_currency": "CAD"
     },
     {
@@ -1426,7 +1426,7 @@
       "vin": "3FMCR9BN3TRE84939",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/448189793a52.html",
       "condition": "new",
-      "price": 42375.0,
+      "price": 40625.0,
       "price_currency": "CAD"
     },
     {
@@ -1434,7 +1434,7 @@
       "vin": "3FMTK3SU2TMA14293",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/c54f37b443f0.html",
       "condition": "new",
-      "price": 55155.0,
+      "price": 55655.0,
       "price_currency": "CAD"
     },
     {
@@ -1442,7 +1442,7 @@
       "vin": "1FTFW2L82TKE45936",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/511f342c22de.html",
       "condition": "new",
-      "price": 64145.0,
+      "price": 58395.0,
       "price_currency": "CAD"
     },
     {
@@ -1458,7 +1458,7 @@
       "vin": "3FMCR9CN3TRE85555",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/eaea21561f21.html",
       "condition": "new",
-      "price": 45075.0,
+      "price": 43325.0,
       "price_currency": "CAD"
     },
     {
@@ -1466,7 +1466,7 @@
       "vin": "1FTFW5L8XTFB55664",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/092b51d79937.html",
       "condition": "new",
-      "price": 73865.0,
+      "price": 70115.0,
       "price_currency": "CAD"
     },
     {
@@ -1474,7 +1474,7 @@
       "vin": "3FMCR9BN6TRF04682",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/27100d0e22cc.html",
       "condition": "new",
-      "price": 40055.0,
+      "price": 38305.0,
       "price_currency": "CAD"
     },
     {
@@ -1482,7 +1482,7 @@
       "vin": "3FMCR9CN3TRE95843",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/746379a05526.html",
       "condition": "new",
-      "price": 45425.0,
+      "price": 43675.0,
       "price_currency": "CAD"
     },
     {
@@ -1490,7 +1490,7 @@
       "vin": "3FMCR9BN6TRE84806",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/acc646708b6e.html",
       "condition": "new",
-      "price": 42050.0,
+      "price": 40300.0,
       "price_currency": "CAD"
     },
     {
@@ -1498,7 +1498,7 @@
       "vin": "1FTFW5LD5TFB44164",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/fde5c43edb76.html",
       "condition": "new",
-      "price": 76015.0,
+      "price": 72265.0,
       "price_currency": "CAD"
     },
     {
@@ -1506,7 +1506,7 @@
       "vin": "1FTFW4L58TFB45750",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/632e5ed8c7ce.html",
       "condition": "new",
-      "price": 80765.0,
+      "price": 75015.0,
       "price_currency": "CAD"
     },
     {
@@ -1915,6 +1915,14 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/214a1fba3a2f.html",
       "condition": "new",
       "price": 42970.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 F-150 Lariat",
+      "vin": "1FTFW5LD9TFB80293",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/c2f80e1a8571.html",
+      "condition": "new",
+      "price": 78555.0,
       "price_currency": "CAD"
     },
     {
