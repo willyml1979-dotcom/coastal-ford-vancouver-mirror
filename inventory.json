@@ -1,7 +1,7 @@
 {
   "dealership": "Coastal Ford Vancouver",
-  "generated_at": "2026-11-18T09:39:27",
-  "vehicle_count": 567,
+  "generated_at": "2026-11-18T10:25:05",
+  "vehicle_count": 556,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -75,14 +75,6 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/b1407a747c75.html",
       "condition": "new",
       "price": 48605.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 Transit Reg 148",
-      "vin": "1FTYE1Y84TKA54723",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/9f0cdf642267.html",
-      "condition": "new",
-      "price": 61225.0,
       "price_currency": "CAD"
     },
     {
@@ -526,14 +518,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2026 Mustang Mach-E Premium",
-      "vin": "3FMTK3SU9TMA09320",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/2cb866cb0296.html",
-      "condition": "new",
-      "price": 54600.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Ford2026 F-350 Lariat",
       "vin": "1FT8W3BT6TEE60118",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/58e5fdc5a994.html",
@@ -635,14 +619,6 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/81e8ed47046b.html",
       "condition": "new",
       "price": 73135.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 F-150 Raptor",
-      "vin": "1FTFW1RG7TFA99576",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/565b07cdb100.html",
-      "condition": "new",
-      "price": 130425.0,
       "price_currency": "CAD"
     },
     {
@@ -934,14 +910,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2026 Mustang Mach-E Premium",
-      "vin": "3FMTK3SU8TMA15643",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/b0b2c81c33c8.html",
-      "condition": "new",
-      "price": 54355.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Ford2026 Transit Reg 148",
       "vin": "1FTBW9CG9TKB25799",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/26d3813c217f.html",
@@ -987,14 +955,6 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/bd6e351672a2.html",
       "condition": "new",
       "price": 95555.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 Mustang Mach-E Premium",
-      "vin": "3FMTK3SUXTMA18902",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/740c56c353cb.html",
-      "condition": "new",
-      "price": 53880.0,
       "price_currency": "CAD"
     },
     {
@@ -1514,7 +1474,7 @@
       "vin": "1FTFW5LD9TFB44412",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/48d3daf3e6e2.html",
       "condition": "new",
-      "price": 75415.0,
+      "price": 71665.0,
       "price_currency": "CAD"
     },
     {
@@ -1522,7 +1482,7 @@
       "vin": "1FTFW2L80TKE44655",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/ec30d4cb6b18.html",
       "condition": "new",
-      "price": 64145.0,
+      "price": 58395.0,
       "price_currency": "CAD"
     },
     {
@@ -1530,7 +1490,7 @@
       "vin": "1FTFW5LD6TFB45517",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/9c207ed9b8c9.html",
       "condition": "new",
-      "price": 75415.0,
+      "price": 71665.0,
       "price_currency": "CAD"
     },
     {
@@ -1538,7 +1498,7 @@
       "vin": "1FTFW3L88TFB57174",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/b57c5949a17d.html",
       "condition": "new",
-      "price": 70635.0,
+      "price": 67885.0,
       "price_currency": "CAD"
     },
     {
@@ -1578,7 +1538,7 @@
       "vin": "3FMCR9DA9TRE85703",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/7dd1651928bc.html",
       "condition": "new",
-      "price": 48685.0,
+      "price": 46935.0,
       "price_currency": "CAD"
     },
     {
@@ -1586,7 +1546,7 @@
       "vin": "1FTFW3L82TFB67991",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/582a806c2ebc.html",
       "condition": "new",
-      "price": 63245.0,
+      "price": 60495.0,
       "price_currency": "CAD"
     },
     {
@@ -1610,7 +1570,7 @@
       "vin": "3FTTW8JAXTRB15856",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/959cfe544202.html",
       "condition": "new",
-      "price": 42995.0,
+      "price": 43495.0,
       "price_currency": "CAD"
     },
     {
@@ -1618,15 +1578,7 @@
       "vin": "3FTTW8NA1TRB17733",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/7ce7c67e043c.html",
       "condition": "new",
-      "price": 49145.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 Maverick Lariat",
-      "vin": "3FTTW8SA8TRB21251",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/7db36563bae2.html",
-      "condition": "new",
-      "price": 49345.0,
+      "price": 50645.0,
       "price_currency": "CAD"
     },
     {
@@ -2423,14 +2375,6 @@
     },
     {
       "name": "Ford2026 Mustang Mach-E Premium",
-      "vin": "3FMTK3SU4TMA30236",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/01c5a18b85ed.html",
-      "condition": "new",
-      "price": 56030.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 Mustang Mach-E Premium",
       "vin": "3FMTK3S51TMA30073",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/bf826e7eec0b.html",
       "condition": "new",
@@ -2459,22 +2403,6 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/905c00d4f1b0.html",
       "condition": "new",
       "price": 53085.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 Mustang Mach-E Premium",
-      "vin": "3FMTK3SU1TMA29965",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/1de1385d27ee.html",
-      "condition": "new",
-      "price": 57105.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 Mustang Mach-E Premium",
-      "vin": "3FMTK3SU9TMA29034",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/3d1fb9cbe4db.html",
-      "condition": "new",
-      "price": 56305.0,
       "price_currency": "CAD"
     },
     {
@@ -2547,14 +2475,6 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/e1483af99bc4.html",
       "condition": "new",
       "price": 53605.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 Mustang Mach-E Select",
-      "vin": "3FMTK1S53TMA30645",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/058bbec15408.html",
-      "condition": "new",
-      "price": 47735.0,
       "price_currency": "CAD"
     },
     {
@@ -2691,14 +2611,6 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/295d423c3fe9.html",
       "condition": "new",
       "price": 40660.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 F-150 STX",
-      "vin": "1FTEW2LP8TKE98224",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/b3e8ddcba7e6.html",
-      "condition": "new",
-      "price": 59265.0,
       "price_currency": "CAD"
     },
     {
@@ -2982,14 +2894,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2026 Mustang Mach-E Select",
-      "vin": "3FMTK1S55TMA24779",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/25986dee166d.html",
-      "condition": "new",
-      "price": 49665.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Ford2026 Mustang Dark Horse SC",
       "vin": "1FA6P8GJ8T5551728",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/bc358a03e9cc.html",
@@ -3203,14 +3107,6 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/0b0a15fa5cc0.html",
       "condition": "new",
       "price": 42815.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 Bronco Outer Banks",
-      "vin": "1FMDE8BH8TLB91539",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/7b4af5f61d92.html",
-      "condition": "new",
-      "price": 71375.0,
       "price_currency": "CAD"
     },
     {
@@ -3926,14 +3822,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2026 Mustang Mach-E Premium",
-      "vin": "3FMTK3SU2TMA30624",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/32d26667fd17.html",
-      "condition": "new",
-      "price": 56305.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Ford2027 Transit Long 148",
       "vin": "1FTBR1C82VKA37696",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/d3fd2be50ff1.html",
@@ -4030,14 +3918,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2026 Bronco Outer Banks",
-      "vin": "1FMDE8BHXTLB60597",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/613077753034.html",
-      "condition": "new",
-      "price": 70825.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Ford2026 F-150 XLT",
       "vin": "1FTFW3L87TKF52129",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/dea908b8ba63.html",
@@ -4111,14 +3991,6 @@
     },
     {
       "name": "Ford2026 Mustang Mach-E Premium",
-      "vin": "3FMTK3SU3TMA30079",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/768ae5cca58a.html",
-      "condition": "new",
-      "price": 54805.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 Mustang Mach-E Premium",
       "vin": "3FMTK3SU4TMA29104",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/646984070586.html",
       "condition": "new",
@@ -4155,14 +4027,6 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/b35ce05c3185.html",
       "condition": "new",
       "price": 88305.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2027 Transit Long 148",
-      "vin": "1FTBW9CMXVKA02991",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/65ac955021d7.html",
-      "condition": "new",
-      "price": 80720.0,
       "price_currency": "CAD"
     },
     {
@@ -4211,14 +4075,6 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/e1bdf41b9ba4.html",
       "condition": "new",
       "price": 76295.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ford2026 Bronco Sport Big Bend",
-      "vin": "3FMCR9BN1TRF42255",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/981c41ac332a.html",
-      "condition": "new",
-      "price": 36635.0,
       "price_currency": "CAD"
     },
     {
@@ -4398,14 +4254,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Ford2026 Explorer Active",
-      "vin": "1FMUK8DH6TGB86693",
-      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/3f2ea8476a6b.html",
-      "condition": "new",
-      "price": 52720.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Ford2026 Bronco Outer Banks",
       "vin": "1FMDE8BH7TLB74943",
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/f83047900702.html",
@@ -4451,6 +4299,70 @@
       "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/fef8f1fd4820.html",
       "condition": "new",
       "price": 49235.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3SU2TMA30624",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/e04610a26c4b.html",
+      "condition": "new",
+      "price": 54805.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3SU3TMA30079",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/9a167e7193a2.html",
+      "condition": "new",
+      "price": 54805.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3SU2TMA30221",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/dbba0b8c6b5a.html",
+      "condition": "new",
+      "price": 54805.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Sport Big Bend",
+      "vin": "3FMCR9BN1TRF42255",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/fab6cdd915a0.html",
+      "condition": "new",
+      "price": 36635.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3SU4TMA30236",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/6a35683a50e9.html",
+      "condition": "new",
+      "price": 54530.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Bronco Outer Banks",
+      "vin": "1FMDE8BH8TLB91539",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/1898c9b15773.html",
+      "condition": "new",
+      "price": 64125.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Premium",
+      "vin": "3FMTK3SU9TMA29034",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/d2913ce7c8b5.html",
+      "condition": "new",
+      "price": 54805.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford2026 Mustang Mach-E Select",
+      "vin": "3FMTK1S53TMA30645",
+      "url": "https://willyml1979-dotcom.github.io/coastal-ford-vancouver-mirror/new/b27df01445bc.html",
+      "condition": "new",
+      "price": 46235.0,
       "price_currency": "CAD"
     },
     {
